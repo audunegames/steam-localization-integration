@@ -1,7 +1,7 @@
 {
   "name": "com.audune.localization.steam",
   "displayName": "Steam Localization Integration",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "unity": "2022.3",
   "description": "Steam localization integration for the Audune Localization package",
   "documentationUrl": "https://github.com/audunegames/steam-localization-integration",
@@ -14,7 +14,7 @@
     "url": "https://audune.com/"
   },
   "dependencies": {
-    "com.audune.localization": "3.1.1",
+    "com.audune.localization": "3.1.2",
     "com.rlabrecque.steamworks.net": "20.0.0"
   }
 }
